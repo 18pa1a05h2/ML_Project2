@@ -17,6 +17,7 @@ to follow the particular diet for their health issue.
 [![Youtbe video link](https://img.youtube.com/vi/Fxd2kCPVUEI/0.jpg)](https://www.youtube.com/watch?v=Fxd2kCPVUEI)
 
 ##Block diagram
+![Block diagram](https://raw.githubusercontent.com/pranathi-thota/ML_2020_Chatbot/main/Diet%20chatbot%20.png)
 
 ##repl.it link
 [repl link](https://bot.pranathi31.repl.co)
